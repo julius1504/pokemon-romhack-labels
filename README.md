@@ -1,5 +1,5 @@
 # pokemon-romhack-labels
-Stickers/Labels for Pokémon Romhack Cartridges.
+Stickers/Labels for Pokémon romhack cartridges.
 
 Print with 600 DPI and 100% scaling (or just use dimensions below).
 
