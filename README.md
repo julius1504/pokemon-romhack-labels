@@ -16,3 +16,7 @@ Height: 37mm
 Width: 43mm
 
 Height: 22mm
+
+
+If you would like to contribute your own labels, please make sure they fit the above dimensions at 600 DPI.
+(For GB/GBC: 992x874 Pixels | for GBA: 1016x520 Pixels)
