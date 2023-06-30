@@ -5,8 +5,6 @@ Print with 600 DPI and 100% scaling (or just use dimensions below).
 
 --[GB/GBC]--
 
-These fit for the regular GB cartridges, not the "bulged" GBC carts.
-
 Width: 42mm
 
 Height: 37mm
